@@ -1,5 +1,5 @@
 # dotfiles-for-work
-![Terminal Vaporwave](/imgs/vaporwave.webmp)
+![Terminal Vaporwave](imgs/vaporwave.webmp)
 
 PreRequisites
 ------------
